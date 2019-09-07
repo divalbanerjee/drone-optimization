@@ -1,0 +1,2 @@
+name;nominal voltage;capacity;maxContinousCurrent;voltageDropCurve;internalResistance;weightInGrams;
+Panasonic;3.7;4000;

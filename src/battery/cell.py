@@ -30,7 +30,7 @@ class cell:
     
     def setInternalResistance(self,ohms):
         self.internalResistance = ohms
-    
+         
     def setWeight(self, grams):
         self.weight = grams
 
